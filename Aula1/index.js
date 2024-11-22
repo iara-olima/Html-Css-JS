@@ -1,4 +1,4 @@
-'use scritct';
+'use strict';
 
 const botao = document.querySelector('.btn');
 
